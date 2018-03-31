@@ -7,7 +7,7 @@ copyright = "&copy; 2018 Luca Weiss"
 [params]
   subtitle = "Luca Weiss"
   brand = "z3ntu"
-  disqusShortname = "z3ntu"
+  disqus = "z3ntu"
 
 [menu]
   [[menu.main]]
