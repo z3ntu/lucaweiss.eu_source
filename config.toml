@@ -1,3 +1,42 @@
-baseURL = "http://example.org/"
+baseURL = "https://z3ntu.github.io"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "z3ntu"
+theme = "blackburn"
+copyright = "&copy; 2018 Luca Weiss"
+
+[params]
+  subtitle = "Luca Weiss"
+  brand = "z3ntu"
+  disqusShortname = "z3ntu"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Projects"
+    pre = "<i class='fa fa-code fa-fw'></i>"
+    weight = 2
+    identifier = "prjects"
+    url = "/projects/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 3
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 4
+    identifier = "about"
+    url = "/about/"
+
+[social]
+  github = "z3ntu"
+  twitter = "z3ntu"
+  keybase = "z3ntu"
+  linkedin = "luca-weiss"
