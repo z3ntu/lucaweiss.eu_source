@@ -5,6 +5,8 @@ tags:
   - android
   - fp2
 comments: true
+aliases:
+  - /2017/06/16/Signing-boot-images.html
 ---
 If you have ever seen the error `FAILED (remote: bootimage: incomplete or not signed)`, here's the solution (at least for the Fairphone 2 😉):
 

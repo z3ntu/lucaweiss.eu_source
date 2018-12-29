@@ -3,6 +3,8 @@ title:  "Deploying Unity WebGL with Apache"
 date:   2015-10-31 12:25:57 +0100
 tags: [unity3d, tutorial]
 comments: true
+aliases:
+    - /2015/10/31/Deploying-Unity-WebGL-with-Apache.html
 ---
 <link rel="stylesheet" href="/css/jquery.fancybox-3.2.5.min.css" />
 <script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script>

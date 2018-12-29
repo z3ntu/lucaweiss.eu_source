@@ -5,6 +5,8 @@ tags:
   - unity3d
   - tutorial
 comments: true
+aliases:
+  - /2015/12/18/fixing-unity-5.3-startup-error-linux.html
 ---
 
 If you experience this error with the newest Unity3D Build on Linux, just do this one simple step:

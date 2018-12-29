@@ -5,6 +5,8 @@ tags:
   - yubikey
   - login
   - tutorial
+aliases:
+  - /2016/07/23/SDDM-login-with-yubikey.html
 ---
 
 If you are wondering how you can login with a Yubikey into your system with SDDM, here are the steps:

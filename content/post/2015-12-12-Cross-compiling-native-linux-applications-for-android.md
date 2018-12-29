@@ -5,6 +5,8 @@ tags:
   - android
   - tutorial
 comments: true
+aliases:
+  - /2015/12/12/Cross-compiling-native-linux-applications-for-android.html
 ---
 
 Here's how you can cross-compile "normal" Linux applications for Android!

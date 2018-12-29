@@ -4,6 +4,8 @@ date: 2015-12-10 12:24:00 +0100
 tags:
   - android
   - tutorial
+aliases:
+  - /2015/12/10/play-services-with-genymotion.html
 ---
 
 So, I think you want to install the Google Play Store & Services with an Android 6.0 Marshmallow Emulator?

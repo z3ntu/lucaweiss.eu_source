@@ -5,6 +5,8 @@ tags:
   - android
   - ssh
   - tutorial
+aliases:
+  - /2015/11/03/SSH-on-Android.html
 ---
 **Installing the SSH binary on Android (for use with adb shell):**
 

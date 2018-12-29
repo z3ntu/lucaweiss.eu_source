@@ -5,6 +5,8 @@ tags:
   - efidroid
   - fp2
 comments: true
+aliases:
+  - /2016/11/01/Install-and-configure-efidroid.html
 ---
 <link rel="stylesheet" href="/css/2016-11-01-Install-and-configure-efidroid.css" />
 <script src="/js/jquery-3.3.1.min.js"></script>
