@@ -1,2 +1,3 @@
 #!/bin/bash
-jekyll build -d z3ntu.github.io
+rm -rf blog.z3ntu.xyz/*
+hugo -d blog.z3ntu.xyz/
