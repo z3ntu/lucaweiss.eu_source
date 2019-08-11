@@ -2,7 +2,7 @@ baseURL = "https://z3ntu.github.io"
 languageCode = "en-us"
 title = "z3ntu"
 theme = "blackburn"
-copyright = "&copy; 2018 Luca Weiss"
+copyright = "&copy; 2019 Luca Weiss"
 
 [params]
   subtitle = "Luca Weiss"
