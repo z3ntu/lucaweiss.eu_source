@@ -14,7 +14,7 @@ postmarketOS is a touch-optimized, pre-configured Alpine Linux that can be insta
 #### Fairphone 2 mainline kernel
 
 Currently most Android devices run a very outdated version of Linux which is modified by SoC manufacturers and OEMs and deviate from official Linux kernel releases quite a lot. Work has been work by different organisations, companies and people to upstream these changes to mainline Linux so a smartphone or tablet, which originally came with e.g. Linux 3.4, can also boot a non-modified version of the Linux kernel. That way security and features come directly to a device without the OEM being in the way.
-For the Fairphone 2 currently only a limited amount of hardware works but that hopefully can be improved in the future. **[GitHub Link](https://github.com/z3ntu/linux)** - **[kernel.org Patchwork (initial support)](https://patchwork.kernel.org/bundle/z3ntu/FP2-initial/?archive=both&state=*)** - **[kernel.org Patchwork (gpio vibra)](https://patchwork.kernel.org/bundle/z3ntu/gpio-vibra/?state=%2A&archive=both)
+For the Fairphone 2 currently only a limited amount of hardware works but that hopefully can be improved in the future. **[GitHub Link](https://github.com/z3ntu/linux)** - **[kernel.org Patchwork (initial support)](https://patchwork.kernel.org/bundle/z3ntu/FP2-initial/?archive=both&state=*)** - **[kernel.org Patchwork (gpio vibra)](https://patchwork.kernel.org/bundle/z3ntu/gpio-vibra/?state=%2A&archive=both)**
 
 #### TWRP 3.X for Fairphone 2 with `/data` decryption support
 
