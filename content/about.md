@@ -3,7 +3,6 @@ title: About
 type: page
 ---
 
-I am a 19-year-old student who likes programming.
+I am a 20-year-old student who likes programming.
 
-I publish most of what I do on GitHub.
-
+I publish most of what I do on my GitHub profile. See also [Projects](/projects).
