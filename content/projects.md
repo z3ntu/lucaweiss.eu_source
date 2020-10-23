@@ -1,8 +1,6 @@
 ---
-layout: page
 title: Projects
-permalink: /projects/
-inNavbar: true
+type: page
 ---
 
 ## Embedded
