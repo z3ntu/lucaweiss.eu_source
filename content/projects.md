@@ -7,7 +7,7 @@ type: page
 
 #### postmarketOS
 
-postmarketOS is a touch-optimized, pre-configured Alpine Linux that can be installed on smartphones and other mobile devices. I have ported postmarketOS to the Fairphone 1, Fairphone 2 and worked on a port for the Pine64 family of devices. Additionally I have contributed many packages and patches to the project. **[Project Website](https://postmarketos.org/)**
+postmarketOS is a touch-optimized, pre-configured Alpine Linux that can be installed on smartphones and other mobile devices. I am Core Developer of the project, have ported postmarketOS to the Fairphone 1, Fairphone 2 and worked on a port for the PINE64 family of devices (such as the PinePhone, PineTab, etc). **[Project Website](https://postmarketos.org/)**
 
 #### Fairphone 2 mainline kernel
 

@@ -2,7 +2,7 @@ baseURL = "https://blog.z3ntu.xyz"
 languageCode = "en-us"
 title = "z3ntu"
 theme = "paper"
-copyright = "&copy; 2020 Luca Weiss"
+copyright = "&copy; {year} Luca Weiss"
 
 [params]
   mainSections = ["post"]
