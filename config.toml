@@ -1,12 +1,11 @@
 baseURL = "https://blog.z3ntu.xyz"
 languageCode = "en-us"
 title = "z3ntu"
-theme = "blackburn"
+theme = "paper"
 copyright = "&copy; 2020 Luca Weiss"
 
 [params]
-  subtitle = "Luca Weiss"
-  brand = "z3ntu"
+  mainSections = ["post"]
 
 [menu]
   [[menu.main]]
@@ -33,6 +32,9 @@ copyright = "&copy; 2020 Luca Weiss"
     weight = 4
     identifier = "about"
     url = "/about/"
+
+[markup.goldmark.renderer]
+  unsafe = true
 
 [social]
   github = "z3ntu"
