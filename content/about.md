@@ -3,7 +3,7 @@ title: About
 type: page
 ---
 
-I am a 20-something-year-old guy who likes programming.
+Just a guy who likes programming.
 
 You can find most things I do on different sites:
 * [GitHub](https://github.com/z3ntu)
