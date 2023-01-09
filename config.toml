@@ -37,9 +37,4 @@ copyright = "&copy; {year} Luca Weiss"
   unsafe = true
 
 [social]
-  github = "z3ntu"
-  gitlab = "z3ntu"
-  twitter = "z3ntu"
   mastodon = "https://fosstodon.org/@z3ntu"
-  linkedin = "luca-weiss"
-  srht = "~z3ntu"
