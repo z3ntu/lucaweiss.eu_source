@@ -1,6 +1,6 @@
-baseURL = "https://blog.z3ntu.xyz"
+baseURL = "https://lucaweiss.eu"
 languageCode = "en-us"
-title = "z3ntu"
+title = "Luca Weiss"
 theme = "paper"
 copyright = "&copy; {year} Luca Weiss"
 
