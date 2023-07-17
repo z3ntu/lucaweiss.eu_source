@@ -1,3 +1,3 @@
 #!/bin/bash
-rm -rf blog.z3ntu.xyz/*
-hugo -d blog.z3ntu.xyz/
+rm -rf lucaweiss.eu_output/*
+hugo -d lucaweiss.eu_output/
