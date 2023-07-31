@@ -9,7 +9,6 @@ aliases:
   - /2016/11/01/Install-and-configure-efidroid.html
 ---
 <link rel="stylesheet" href="/css/2016-11-01-Install-and-configure-efidroid.css" />
-<script src="/js/jquery-3.3.1.min.js"></script>
 
 ### Table of contents:
 * [About EFIDroid](#about-efidroid)
@@ -72,6 +71,6 @@ Once you are in the **UEFI**, you can navigate around with **volume down** to go
 **If you have questions, please ask in the Fairphone Forum thread linked at the top.**
 
 <div class="buttons">
-<div class="button" width="100" height="100" onclick="$('.toggle-image').hide();">Disable images</div>
-<div class="button" width="100" height="100" onclick="$('.toggle-image').show();">Enable images</div>
+<div class="button" width="100" height="100" onclick="document.querySelectorAll('.toggle-image').forEach(e => e.style.display = 'none');">Disable images</div>
+<div class="button" width="100" height="100" onclick="document.querySelectorAll('.toggle-image').forEach(e => e.style.display = '');">Enable images</div>
 </div>
