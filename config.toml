@@ -21,15 +21,21 @@ copyright = "&copy; {year} Luca Weiss"
     identifier = "projects"
     url = "/projects/"
   [[menu.main]]
+    name = "Talks"
+    pre = "<i class='fa fa-code fa-fw'></i>"
+    weight = 3
+    identifier = "talks"
+    url = "/talks/"
+  [[menu.main]]
     name = "Posts"
     pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 3
+    weight = 4
     identifier = "post"
     url = "/post/"
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 4
+    weight = 5
     identifier = "about"
     url = "/about/"
 
