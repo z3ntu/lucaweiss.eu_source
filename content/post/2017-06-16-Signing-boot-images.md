@@ -12,7 +12,7 @@ If you have ever seen the error `FAILED (remote: bootimage: incomplete or not si
 
 Download the `BootSignature.jar` file from my server (or compile it yourself from the LineageOS 14.1 tree with the command `mka BootSignature`).
 {{< highlight shell >}}
-curl -O https://public.z3ntu.xyz/BootSignature.jar
+curl -O https://public.lucaweiss.eu/BootSignature.jar
 {{< / highlight >}}
 
 Download the `make_key` tool from the LineageOS GitHub.
