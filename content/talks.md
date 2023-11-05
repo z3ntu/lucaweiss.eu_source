@@ -3,6 +3,29 @@ title: Talks
 type: page
 ---
 
+## Capitole du Libre 2023
+
+**Title:** Mainline Linux on Fairphone? Yes, please!  
+**Location:** ENSEEIHT, Toulouse, France  
+**Date:** 2023-11-19  
+
+* [Conference website](https://cfp.capitoledulibre.org/cdl-2023/talk/77EAF7/)
+
+**Title:** Open Source for Sustainable and Long lasting Phones  
+**Co-hosted:** Agnès Crepet  
+**Location:** ENSEEIHT, Toulouse, France  
+**Date:** 2023-11-19  
+
+* [Conference website](https://cfp.capitoledulibre.org/cdl-2023/talk/H8PBDM/)
+
+## Ubuntu Summit 2023
+
+**Title:** Open Source for Sustainable and Long lasting Phones  
+**Location:** Radisson Blu Latvija, Riga, Latvia  
+**Date:** 2023-11-05  
+
+* [Conference website (slides)](https://events.canonical.com/event/31/contributions/175/)
+
 ## FSiC 2023
 
 **Title:** Open Source for Sustainable and Long lasting Phones  
