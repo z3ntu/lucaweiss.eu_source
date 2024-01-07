@@ -13,4 +13,4 @@ You can find most things I do on different sites:
 * [Codeberg](https://codeberg.org/lucaweiss)
 * [Linux Kernel Mailing List](https://lore.kernel.org/all/?q=f%3A%22Luca+Weiss%22)
 
-See also [Projects](/projects).
+See also: [Projects](/projects/)
