@@ -1,0 +1,18 @@
+# {{ .Title }}
+
+{{- $content := .RawContent -}}
+{{- /* images */}}
+{{- $content = $content | replaceRE `\!\[(.+?)\]\((.+?)\)` "=> $2 Image: $1" }}
+{{- $content = $content | replaceRE `{{< figure src="(.+?)".*>}}` "=> $1 Image" }}
+{{- /* list of links */}}
+{{- range findRE `\n\* \[.+?\]\(.+?\)\n` $content }}
+    {{- $content = $content | replaceRE `\n\* \[(.+?)\]\((.+?)\)\n` "\n=> $2 $1\n" }}
+{{- end }}
+{{- /* inline links */}}
+{{- range findRE `\[.+?\]\(.+?\)` $content }}
+    {{- $content = $content | replaceRE `\[(.+?)\]\((.+?)\)(.+)` "$1$3\n\n=> $2 $1 " }}
+{{- end }}
+{{- /* links at end of line */}}
+{{- $content = $content | replaceRE ` \[(.+?)\]\((.+?)\)\n` "\n\n=> $2 $1\n" }}
+{{- /* actually print the adjusted text */}}
+{{ $content }}

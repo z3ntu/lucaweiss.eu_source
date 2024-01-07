@@ -14,6 +14,8 @@ copyright = "&copy; {year} Luca Weiss"
     weight = 1
     identifier = "home"
     url = "/"
+    [menu.main.params]
+      hideInGemini = true
   [[menu.main]]
     name = "Projects"
     pre = "<i class='fa fa-code fa-fw'></i>"
@@ -32,6 +34,8 @@ copyright = "&copy; {year} Luca Weiss"
     weight = 4
     identifier = "post"
     url = "/post/"
+    [menu.main.params]
+      hideInGemini = true
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
@@ -44,3 +48,18 @@ copyright = "&copy; {year} Luca Weiss"
 
 [social]
   mastodon = "https://fosstodon.org/@z3ntu"
+
+[mediaTypes."text/gemini"]
+  suffixes = ["gmi"]
+
+[outputFormats.gemini]
+  name = "gemini"
+  isPlainText = true
+  isHTML = false
+  mediaType = "text/gemini"
+  protocol = "gemini://"
+  permalinkable = true
+
+[outputs]
+  home = ["html", "rss", "gemini"]
+  page = ["html", "gemini"]

@@ -1,0 +1,14 @@
+# {{ .Site.Title }}
+
+## Menu
+{{- range .Site.Menus.main }}
+{{- if not .Params.hideInGemini }}
+=> {{ .URL }} {{ .Name }}
+{{- end }}
+{{- end }}
+
+## Posts
+{{- range $index, $page := (where .Site.RegularPages ".Params.type" "!=" "page") }}
+=> {{ .RelPermalink }} {{ .Date.Format "2006-01-02" }} - {{ .Title }}
+{{- end }}
+
