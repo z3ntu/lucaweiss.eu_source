@@ -19,100 +19,100 @@ Here's how you can cross-compile "normal" Linux applications for Android!
 
 ### Ncurses
 Add `ac_cv_header_locale_h=no` to your `android_configure` script to the line `export CC` (example: `export CC=${CROSS_PATH}/${CROSS_COMPILE}-gcc ac_cv_header_locale_h=no`)
-{{< highlight shell >}}
+```shell
 android_configure --enable-widec
 make
 make install
-{{< / highlight >}}
+```
 
 ### Htop
-{{< highlight shell >}}
+```shell
 android_configure
 make
 make install
-{{< / highlight >}}
+```
 
 ### GnuTLS
-{{< highlight shell >}}
+```shell
 android_configure --without-p11-kit
 make
 make install
-{{< / highlight >}}
+```
 
 ### Wget
-{{< highlight shell >}}
+```shell
 android_configure
 patch src/gnutls.c < ../TOOLS/gnutls.c.patch
 make
 make install
-{{< / highlight >}}
+```
 
 ### Curl
-{{< highlight shell >}}
+```shell
 android_configure
 make
 make install
-{{< / highlight >}}
+```
 
 ### Libiconv
-{{< highlight shell >}}
+```shell
 android_configure --host=arm-linux
 make
 make install
-{{< / highlight >}}
+```
 
 ### Git
 Comment out the parts in `configure.ac` with `ac_cv_fread_reads_directories` and `ac_cv_snprintf_returns_bogus`. Currently on Line 854.
-{{< highlight shell >}}
+```shell
 make configure
 android_configure
 make NO_NSEC=1
-{{< / highlight >}}
+```
 
 ### Binutils
-{{< highlight shell >}}
+```shell
 android_configure
 make
 make install
-{{< / highlight >}}
+```
 
 ### Python (not complete)
-{{< highlight shell >}}
+```shell
 android_configure --host=arm-linux --build=arm
 not complete!
-{{< / highlight >}}
+```
 
 ---
 
 ## GCC
 
 ### GMP
-{{< highlight shell >}}
+```shell
 android_configure --host=arm-linux
 make
 make install
-{{< / highlight >}}
+```
 
 ### MPFR
-{{< highlight shell >}}
+```shell
 android_configure --host=arm-linux
 make
 make install
-{{< / highlight >}}
+```
 
 ### MPC
-{{< highlight shell >}}
+```shell
 android_configure --host=arm-linux
 make
 make install
-{{< / highlight >}}
+```
 
 ### GCC
 Add `-I<YOUR_NDK_ROOT>/sources/android/support/include` to your CFLAGS (android_configure script)
-{{< highlight shell >}}
+```shell
 android_configure
 make
 make install
-{{< / highlight >}}
+```
 
 Thanks for reading!

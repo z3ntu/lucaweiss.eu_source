@@ -15,22 +15,22 @@ If you are wondering how you can login with a Yubikey into your system with SDDM
 Install [yubico-pam](https://www.archlinux.org/packages/?name=yubico-pam) from [community].
 
 **Step 2:** Edit the file `/etc/yubikeys` and insert text in the following format:
-{{< highlight text >}}
+```
 <username>:<yubikey_token_id>
 # eg
 luca:cclcclcclccl
-{{< / highlight >}}
+```
 If you don't know what the token ID from your yubikey is, just open a text editor and press the button on your yubikey to create a one time password (=OTP). Then take the **first twelve characters** from that string, which is your token id. If you are too lazy to count, you can also press the button multiple times and take the part that stays the same at the beginning.
 
 **Step 3:** Edit the file `/etc/pam.d/system-auth` that it looks like the following. Note, that by editing this file you allow these users you specified in Step 2 to login nearly everywhere in your system with the yubikey.
-{{< highlight text >}}
+```
 #%PAM-1.0
 
 auth sufficient pam_yubico.so debug id=1 authfile=/etc/yubikeys
 
 auth required pam_unix.so try_first_pass nullok
 # and more lines
-{{< / highlight >}}
+```
 **If you don't want fancy debug lines, remove the 'debug' parameter.
 If you don't want the ability to just login with your yubikey, replace the 'sufficient' parameter with 'required'. But note, that you will be locked out of your system if you lose your yubikey or don't have it with you!**
 

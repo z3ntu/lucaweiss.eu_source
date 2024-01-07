@@ -25,14 +25,14 @@ I got the instructions here:
 - Move every file from the `Release` folder into the `Compressed` folder. You can now delete the `Release` folder.
 Your folder structure should look like this:
 
-{{< highlight text >}}
+```
 .htaccess
 index.html
 Compressed
 - many files (.datagz, .jsgz, .memgz)
 TemplateData
 - many image files, 1 .css & 1 .js file
-{{< / highlight >}}
+```
 
 - Enter `sudo a2enmod rewrite` in the terminal (to activate the `rewrite` Apache module).
 
