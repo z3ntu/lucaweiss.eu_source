@@ -7,8 +7,6 @@ aliases:
     - /2015/10/31/Deploying-Unity-WebGL-with-Apache.html
 ---
 
-# Deploying Unity WebGL on Apache
-
 Have you had troubles getting your exported Unity WebGL project to work?
 
 > GET /Release/UnityConfig.js **404 (Not Found)**
@@ -20,7 +18,8 @@ Have you had troubles getting your exported Unity WebGL project to work?
 I got the instructions here:
 
 * Export your Unity project as WebGL (probably already did this).
-<a href="/images/unity_webgl_export.png" target="_blank">Click for a screenshot of my Build Settings</a>
+
+![My Build Settings](/images/unity_webgl_export.png)
 
 * Move every file from the `Release` folder into the `Compressed` folder. You can now delete the `Release` folder.
 Your folder structure should look like this:
