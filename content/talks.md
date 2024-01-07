@@ -3,6 +3,14 @@ title: Talks
 type: page
 ---
 
+## FOSDEM 2024
+
+**Title:** From phone hardware to mobile Linux  
+**Location:** ULB Solbosch Campus, Brussels, Belgium  
+**Date:** 2024-02-03  
+
+* [Conference website](https://fosdem.org/2024/schedule/event/fosdem-2024-2234-from-phone-hardware-to-mobile-linux/)
+
 ## Capitole du Libre 2023
 
 **Title:** Mainline Linux on Fairphone? Yes, please!  
@@ -25,6 +33,7 @@ type: page
 **Date:** 2023-11-05  
 
 * [Conference website (slides)](https://events.canonical.com/event/31/contributions/175/)
+* [Talk recording (YouTube)](https://www.youtube.com/watch?v=8ycIop9nrJk)
 
 ## FSiC 2023
 
