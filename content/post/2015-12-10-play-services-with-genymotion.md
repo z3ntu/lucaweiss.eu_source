@@ -14,19 +14,19 @@ To do that, follow either the long or the short version.
 
 You need the following three files:
 
-- [Genymotion-ARM-Translation_v1.1.zip](http://www.mirrorcreator.com/files/0ZIO8PME/Genymotion-ARM-Translation_v1.1.zip_links)
-- [gapps-L-4-21-15.zip](https://www.androidfilehost.com/?fid=96042739161891406)
-- [benzo-gapps-M-20151011-signed-chroma-r3.zip](https://www.androidfilehost.com/?fid=24052804347835438).
+* [Genymotion-ARM-Translation_v1.1.zip](http://www.mirrorcreator.com/files/0ZIO8PME/Genymotion-ARM-Translation_v1.1.zip_links)
+* [gapps-L-4-21-15.zip](https://www.androidfilehost.com/?fid=96042739161891406)
+* [benzo-gapps-M-20151011-signed-chroma-r3.zip](https://www.androidfilehost.com/?fid=24052804347835438).
 
 __Short version:__
 
-- Download all three files.
-- Create an emulator with the `Nexus 5X` image and start it.
-- Flash `Genymotion-ARM-Translation_v1.1.zip` and reboot.
-- Flash `gapps-L-4-21-15.zip` and reboot.
-- Sign into your Google Account.
-- Flash `benzo-gapps-M-20151011-signed-chroma-r3.zip` and reboot.
-- You are finished!
+* Download all three files.
+* Create an emulator with the `Nexus 5X` image and start it.
+* Flash `Genymotion-ARM-Translation_v1.1.zip` and reboot.
+* Flash `gapps-L-4-21-15.zip` and reboot.
+* Sign into your Google Account.
+* Flash `benzo-gapps-M-20151011-signed-chroma-r3.zip` and reboot.
+* You are finished!
 
 __Long version:__
 

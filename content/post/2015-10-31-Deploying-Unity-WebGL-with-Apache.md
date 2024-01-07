@@ -19,26 +19,26 @@ Have you had troubles getting your exported Unity WebGL project to work?
 
 I got the instructions here:
 
-- Export your Unity project as WebGL (probably already did this).
+* Export your Unity project as WebGL (probably already did this).
 <a href="/images/unity_webgl_export.png" target="_blank">Click for a screenshot of my Build Settings</a>
 
-- Move every file from the `Release` folder into the `Compressed` folder. You can now delete the `Release` folder.
+* Move every file from the `Release` folder into the `Compressed` folder. You can now delete the `Release` folder.
 Your folder structure should look like this:
 
 ```
 .htaccess
 index.html
 Compressed
-- many files (.datagz, .jsgz, .memgz)
+* many files (.datagz, .jsgz, .memgz)
 TemplateData
-- many image files, 1 .css & 1 .js file
+* many image files, 1 .css & 1 .js file
 ```
 
-- Enter `sudo a2enmod rewrite` in the terminal (to activate the `rewrite` Apache module).
+* Enter `sudo a2enmod rewrite` in the terminal (to activate the `rewrite` Apache module).
 
-- Open `/etc/apache2/apache2.conf` with your favorite text editor and find the following part:
+* Open `/etc/apache2/apache2.conf` with your favorite text editor and find the following part:
 `<Directory /var/www/>` / `<Directory /var/www/html/>` (or wherever your "main" folder is)
 
-- Change `AllowOverride` from `None` to `All` and save the file.
+* Change `AllowOverride` from `None` to `All` and save the file.
 
 I hope this helped you!

@@ -13,7 +13,7 @@ If you experience this error with the newest Unity3D Build on Linux, just do thi
 
 {{< figure src="/images/unity3d_startup_error.png" width="500" >}}
 
-- Create the folder `~/.local/share/unity3d` and you are good to go!
+* Create the folder `~/.local/share/unity3d` and you are good to go!
 
 __Now have fun with Unity!__
 
