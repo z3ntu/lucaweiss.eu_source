@@ -6,10 +6,17 @@ type: page
 ## FOSDEM 2024
 
 **Title:** From phone hardware to mobile Linux  
-**Location:** ULB Solbosch Campus, Brussels, Belgium  
+**Location:** H.1309 (Van Rijn), ULB Solbosch Campus, Brussels, Belgium  
 **Date:** 2024-02-03  
 
 * [Conference website](https://fosdem.org/2024/schedule/event/fosdem-2024-2234-from-phone-hardware-to-mobile-linux/)
+
+**Title:** Open Source for Sustainable and Long lasting Phones  
+**Co-hosted:** Agnès Crepet  
+**Location:** Janson, ULB Solbosch Campus, Brussels, Belgium  
+**Date:** 2024-02-04  
+
+* [Conference website](https://fosdem.org/2024/schedule/event/fosdem-2024-3362-open-source-for-sustainable-and-long-lasting-phones/)
 
 ## Capitole du Libre 2023
 
