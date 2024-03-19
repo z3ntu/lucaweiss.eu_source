@@ -3,14 +3,6 @@ title: Talks
 type: page
 ---
 
-## How.Camp 2024
-
-**Title:** Open source operating systems for phones  
-**Location:** Gabrovo, Bulgaria  
-**Date:** 2024-07-27  
-
-* [Conference website](https://how.camp/)
-
 ## FOSDEM 2024
 
 **Title:** From phone hardware to mobile Linux  
