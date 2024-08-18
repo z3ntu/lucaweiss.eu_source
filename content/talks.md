@@ -3,6 +3,23 @@ title: Talks
 type: page
 ---
 
+## Linux Plumbers Conference 2024
+
+**Title:** Long-Term AOSP Maintainership  
+**Co-hosted:** Serban Constantinescu, Karim Yaghmour  
+**Location:** Austria Center, Vienna, Austria - presented remote  
+**Date:** 2024-09-20  
+
+* [Conference website](https://lpc.events/event/18/contributions/1740/)
+
+## FrOSCon 2024
+
+**Title:** eSIM management on Qualcomm phones  
+**Location:** HS4, Hochschule Bonn-Rhein-Sieg, Sankt Augustin, Germany  
+**Date:** 2024-08-18  
+
+* [Conference website (slides, recording)](https://programm.froscon.org/2024/events/3079.html)
+
 ## FOSDEM 2024
 
 **Title:** From phone hardware to mobile Linux  
@@ -10,6 +27,7 @@ type: page
 **Date:** 2024-02-03  
 
 * [Conference website (slides, recording)](https://fosdem.org/2024/schedule/event/fosdem-2024-2234-from-phone-hardware-to-mobile-linux/)
+* [Talk recording (YouTube)](https://www.youtube.com/watch?v=VMOxarhhYuM)
 
 **Title:** Open Source for Sustainable and Long lasting Phones  
 **Co-hosted:** Agnès Crepet  
@@ -17,6 +35,7 @@ type: page
 **Date:** 2024-02-04  
 
 * [Conference website (slides, recording)](https://fosdem.org/2024/schedule/event/fosdem-2024-3362-open-source-for-sustainable-and-long-lasting-phones/)
+* [Talk recording (YouTube)](https://www.youtube.com/watch?v=5RkM34IJIig)
 
 ## Capitole du Libre 2023
 
@@ -25,6 +44,7 @@ type: page
 **Date:** 2023-11-19  
 
 * [Conference website (slides)](https://cfp.capitoledulibre.org/cdl-2023/talk/77EAF7/)
+* [Talk recording (YouTube)](https://www.youtube.com/watch?v=fVu6eoLwDN0)
 
 **Title:** Open Source for Sustainable and Long lasting Phones  
 **Co-hosted:** Agnès Crepet  
@@ -32,6 +52,7 @@ type: page
 **Date:** 2023-11-19  
 
 * [Conference website (slides)](https://cfp.capitoledulibre.org/cdl-2023/talk/H8PBDM/)
+* Talk recording (YouTube): coming soon
 
 ## Ubuntu Summit 2023
 
