@@ -10,7 +10,7 @@ type: page
 **Location:** Austria Center, Vienna, Austria - presented remote  
 **Date:** 2024-09-20  
 
-* [Conference website](https://lpc.events/event/18/contributions/1740/)
+* [Conference website (slides, recording)](https://lpc.events/event/18/contributions/1740/)
 
 ## FrOSCon 2024
 
@@ -19,6 +19,7 @@ type: page
 **Date:** 2024-08-18  
 
 * [Conference website (slides, recording)](https://programm.froscon.org/2024/events/3079.html)
+* [Talk recording (YouTube)](https://www.youtube.com/watch?v=L8WyIrwg14E)
 
 ## FOSDEM 2024
 
