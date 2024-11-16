@@ -6,6 +6,8 @@ copyright = "&copy; {year} Luca Weiss"
 
 [params]
   mainSections = ["post"]
+  [params.social]
+    mastodon = "https://fosstodon.org/@z3ntu"
 
 [menu]
   [[menu.main]]
@@ -45,9 +47,6 @@ copyright = "&copy; {year} Luca Weiss"
 
 [markup.goldmark.renderer]
   unsafe = true
-
-[social]
-  mastodon = "https://fosstodon.org/@z3ntu"
 
 [mediaTypes."text/gemini"]
   suffixes = ["gmi"]
