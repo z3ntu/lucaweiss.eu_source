@@ -1,6 +1,8 @@
 ---
 title: "Taking the Grimaldi Lines ferry from Brindisi to Igoumenitsa"
 date: 2023-07-17T11:00:00+03:00
+tags:
+  - Travel
 ---
 
 *All information as of July 2023.*
