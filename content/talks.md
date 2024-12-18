@@ -3,6 +3,14 @@ title: Talks
 type: page
 ---
 
+## FOSDEM 2025
+
+**Title:** Kernel support for Mobile Linux: The missing 20%  
+**Location:** ULB Solbosch Campus, Brussels, Belgium  
+**Date:** 2025-02-01  
+
+* Conference website: coming soon
+
 ## Linux Plumbers Conference 2024
 
 **Title:** Long-Term AOSP Maintainership  
