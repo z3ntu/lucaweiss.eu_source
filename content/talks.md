@@ -6,10 +6,11 @@ type: page
 ## FOSDEM 2025
 
 **Title:** Kernel support for Mobile Linux: The missing 20%  
-**Location:** ULB Solbosch Campus, Brussels, Belgium  
+**Location:** H.2214, ULB Solbosch Campus, Brussels, Belgium  
 **Date:** 2025-02-01  
 
-* Conference website: coming soon
+* [Conference website (slides, recording)](https://fosdem.org/2025/schedule/event/fosdem-2025-4836-kernel-support-for-mobile-linux-the-missing-20-/)
+* [Talk recording (YouTube)](https://www.youtube.com/watch?v=DdHPwc9RRJY)
 
 ## Linux Plumbers Conference 2024
 
@@ -35,7 +36,7 @@ type: page
 **Location:** H.1309 (Van Rijn), ULB Solbosch Campus, Brussels, Belgium  
 **Date:** 2024-02-03  
 
-* [Conference website (slides, recording)](https://fosdem.org/2024/schedule/event/fosdem-2024-2234-from-phone-hardware-to-mobile-linux/)
+* [Conference website (slides, recording)](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-2234-from-phone-hardware-to-mobile-linux/)
 * [Talk recording (YouTube)](https://www.youtube.com/watch?v=VMOxarhhYuM)
 
 **Title:** Open Source for Sustainable and Long lasting Phones  
@@ -43,7 +44,7 @@ type: page
 **Location:** Janson, ULB Solbosch Campus, Brussels, Belgium  
 **Date:** 2024-02-04  
 
-* [Conference website (slides, recording)](https://fosdem.org/2024/schedule/event/fosdem-2024-3362-open-source-for-sustainable-and-long-lasting-phones/)
+* [Conference website (slides, recording)](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-3362-open-source-for-sustainable-and-long-lasting-phones/)
 * [Talk recording (YouTube)](https://www.youtube.com/watch?v=5RkM34IJIig)
 
 ## Capitole du Libre 2023
@@ -85,7 +86,7 @@ type: page
 
 **Title:** Mainline Linux on recent Qualcomm SoCs: Fairphone 4  
 **Subtitle:** A look into the work of getting a modern Qualcomm SoC into mainline Linux.  
-**Location:** ULB Solbosch Campus, Brussels, Belgium  
+**Location:** UB4.136, ULB Solbosch Campus, Brussels, Belgium  
 **Date:** 2023-02-04  
 
 * [Conference website (slides, recording)](https://archive.fosdem.org/2023/schedule/event/mainline_on_the_fairphone4/)
