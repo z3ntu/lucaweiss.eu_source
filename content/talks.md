@@ -3,6 +3,14 @@ title: Talks
 type: page
 ---
 
+## Linaro Connect 2025
+
+**Title:** Making Android phones Last  
+**Location:** Corinthia Lisbon, Lisbon, Portugal  
+**Date:** 2025-05-15  
+
+* [Conference website](https://www.kitefor.events/events/linaro-connect-2025/submissions/323)
+
 ## FOSDEM 2025
 
 **Title:** Kernel support for Mobile Linux: The missing 20%  
