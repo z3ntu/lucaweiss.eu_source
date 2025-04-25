@@ -6,7 +6,9 @@ copyright = "&copy; {year} Luca Weiss"
 
 [params]
   mainSections = ["post"]
+  author = "Luca Weiss"
   [params.social]
+    mastodon_handle = "@z3ntu@fosstodon.org"
     mastodon = "https://fosstodon.org/@z3ntu"
 
 [menu]
