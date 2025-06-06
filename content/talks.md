@@ -10,6 +10,8 @@ type: page
 **Date:** 2025-05-15  
 
 * [Conference website](https://www.kitefor.events/events/linaro-connect-2025/submissions/323)
+* [Linaro Resources Hub (slides, recording)](https://resources.linaro.org/en/resource/tSoFTmuxMgx5hv9xWJPVV5)
+* [Talk recording (YouTube)](https://www.youtube.com/watch?v=xR-PlOlWRz8)
 
 ## FOSDEM 2025
 
@@ -70,7 +72,7 @@ type: page
 **Date:** 2023-11-19  
 
 * [Conference website (slides)](https://cfp.capitoledulibre.org/cdl-2023/talk/H8PBDM/)
-* Talk recording (YouTube): coming soon
+* [Talk recording (YouTube)](https://www.youtube.com/watch?v=A13Du7pYjAQ)
 
 ## Ubuntu Summit 2023
 
