@@ -3,6 +3,14 @@ title: Talks
 type: page
 ---
 
+## FrOSCon 2025
+
+**Title:** postmarketOS - Digital Independence in Your Pocket  
+**Location:** HS6, Hochschule Bonn-Rhein-Sieg, Sankt Augustin, Germany  
+**Date:** 2025-08-17  
+
+* Conference website (coming soon)
+
 ## Linaro Connect 2025
 
 **Title:** Making Android phones Last  
