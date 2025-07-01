@@ -9,7 +9,7 @@ type: page
 **Location:** HS6, Hochschule Bonn-Rhein-Sieg, Sankt Augustin, Germany  
 **Date:** 2025-08-17  
 
-* Conference website (coming soon)
+* [Conference website](https://programm.froscon.org/2025/events/3317.html)
 
 ## Linaro Connect 2025
 
