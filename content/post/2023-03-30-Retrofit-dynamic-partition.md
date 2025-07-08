@@ -4,7 +4,7 @@ date: 2023-03-30 22:50:00 +0200
 tags:
   - android
 ---
-Android devices launching with Android 10 and newer use a feature called [Dynamic Partitions](https://source.android.com/docs/core/ota/dynamic_partitions) which essentially combines the `system_a`, `vendor_a` and `product_a` (and all the `_b`) variants into a single partition simplying the actual partition layout while making it more flexible. Think of it like a single physical partition which contains multiple logical partitions, like with LVM.
+Android devices launching with Android 10 and newer use a feature called [Dynamic Partitions](https://source.android.com/docs/core/ota/dynamic_partitions) which essentially combines the `system_a`, `vendor_a` and `product_a` (and all the `_b`) variants into a single partition simplifying the actual partition layout while making it more flexible. Think of it like a single physical partition which contains multiple logical partitions, like with LVM.
 
 This feature is available on newly launched devices, devices launched with earlier Android versions still have to cope with the rigid partition layout on-disk. For this Android has introduced a way to [retrofit dynamic partitions](https://source.android.com/docs/core/ota/dynamic_partitions/implement#upgrading-devices) onto exiting the existing partition layout.
 

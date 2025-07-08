@@ -28,7 +28,7 @@ My work is primarily focused around device and driver bringup for the various Fa
 * [MSM8974-mainline repository](https://github.com/msm8974-mainline/linux)
 * [MSM8226-mainline repository](https://github.com/msm8226-mainline/linux)
 
-### Offical TWRP builds for Fairphone 2, 4 and 5
+### Official TWRP builds for Fairphone 2, 4 and 5
 
 Team Win Recovery Project (TWRP) is a popular custom recovery for Android devices with touchscreen support. The Fairphone 2, Fairphone 4 and Fairphone 5 builds are maintained by me.
 
