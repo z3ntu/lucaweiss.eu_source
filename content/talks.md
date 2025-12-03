@@ -3,6 +3,14 @@ title: Talks
 type: page
 ---
 
+## Open Source Summit Japan 2025
+
+**Title:** We need an open source phone OS - postmarketOS!  
+**Location:** Hall A4, Toranomon Hills Forum, Tokyo, Japan  
+**Date:** 2025-12-10  
+
+* [Conference website](https://ossjapan2025.sched.com/event/29Fpa)
+
 ## FrOSCon 2025
 
 **Title:** postmarketOS - Digital Independence in Your Pocket  
@@ -10,6 +18,7 @@ type: page
 **Date:** 2025-08-17  
 
 * [Conference website](https://programm.froscon.org/2025/events/3317.html)
+* [Talk recording (YouTube)](https://www.youtube.com/watch?v=awIzcXq_FOI)
 
 ## Linaro Connect 2025
 
