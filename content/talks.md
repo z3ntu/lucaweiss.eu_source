@@ -3,6 +3,14 @@ title: Talks
 type: page
 ---
 
+## FOSDEM 2026
+
+**Title:** Mainline kernel for Fairphones - 2026 update  
+**Location:** UB4.132, ULB Solbosch Campus, Brussels, Belgium  
+**Date:** 2026-01-31  
+
+* [Conference website](https://fosdem.org/2026/schedule/event/ZNAAZX-mainline_kernel_for_fairphones_-_2026_update/)
+
 ## Open Source Summit Japan 2025
 
 **Title:** We need an open source phone OS - postmarketOS!  
