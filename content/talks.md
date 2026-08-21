@@ -6,8 +6,10 @@ type: page
 ## FrOSCon 2026
 
 **Title:** Automated testing of a phone operating system  
-**Location:** TBD, Hochschule Bonn-Rhein-Sieg, Sankt Augustin, Germany  
-**Date:** 2026-08-15 / 2026-08-16  
+**Location:** HS 3, Hochschule Bonn-Rhein-Sieg, Sankt Augustin, Germany  
+**Date:** 2026-08-15  
+
+* [Conference website](https://programm.froscon.org/froscon2026/talk/677b5376-4d7a-4171-b506-becc56193bf6/)
 
 ## FOSDEM 2026
 
@@ -25,6 +27,7 @@ type: page
 
 * [Conference website](https://ossjapan2025.sched.com/event/29Fpa)
 * [LWN.net article](https://lwn.net/Articles/1055391/)
+* [Talk recording (YouTube)](https://www.youtube.com/watch?v=Wi5DpVYozUc)
 
 ## FrOSCon 2025
 
