@@ -10,6 +10,7 @@ type: page
 **Date:** 2026-08-15  
 
 * [Conference website](https://programm.froscon.org/froscon2026/talk/677b5376-4d7a-4171-b506-becc56193bf6/)
+* [Talk recording (YouTube)](https://www.youtube.com/watch?v=FZBsCdJNVzg)
 
 ## FOSDEM 2026
 
